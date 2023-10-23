@@ -51,7 +51,7 @@ Pokémon API: https://pokeapi.co/
 Flet Library: https://flet.dev/ 
 
 License
-The Flet Pokémon Viewer is provided under an open-source license. Please refer to the project's repository for detailed licensing information.
+The Flet Pokedex is provided under an open-source license. Please refer to the project's repository for detailed licensing information.
 
 Author
 This application was created by Michael as a demonstration of Flet's capabilities for building user interfaces in Python.

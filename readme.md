@@ -1,5 +1,5 @@
 Project Readme
-Flet Pokémon Viewer
+Flet Pokedex
 The Flet Pokémon Viewer is a Python application that uses the Flet library to create a simple interface for exploring Pokémon data. This application allows you to browse through various Pokémon and view their information and sprites.
 
 Prerequisites
